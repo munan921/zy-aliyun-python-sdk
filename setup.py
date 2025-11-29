@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="zy-aliyun-python-sdk-core",
-    version="1.0.0",
+    name="zy_aliyun_python_sdk_core",
+    version="1.1.1",
     author="munan921",
     license='MIT',
     author_email="immndev@hotmail.com",

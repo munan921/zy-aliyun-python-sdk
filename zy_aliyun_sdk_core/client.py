@@ -1,6 +1,6 @@
 # Project Packages
-from aliyun_sdk_core.common import AliyunCommon
-from aliyun_sdk_core.oss import AliyunOSS
+from zy_aliyun_sdk_core.common import AliyunCommon
+from zy_aliyun_sdk_core.oss import AliyunOSS
 from . import retry_for_requests
 
 

@@ -8,7 +8,7 @@ __CreateTime__ = '2019/7/15'
 # Part3   Packages
 # Project Packages
 
-from aliyun_sdk_core import client
+from zy_aliyun_sdk_core import client
 ak = {
     "AccessKeyId":"example",
     "AccessKeySecret": "example"

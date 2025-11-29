@@ -57,6 +57,12 @@ PRODUCT_API_CONFIG_MAP = {
         'port': 443,
         'protocol': 'https'
     },
+    'alb': {
+        'domain': 'alb.[RegionId].aliyuncs.com',
+        'version': '2020-06-16',
+        'port': 443,
+        'protocol': 'https'
+    },
     'ess': {
         'domain': 'ess.aliyuncs.com',
         'version': '2014-08-28',

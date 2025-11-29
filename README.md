@@ -35,6 +35,7 @@ API 接口详情如下：
 |阿里云关系型数据库|rds|2014-08-15|rds.aliyuncs.com|443|https|2019-04-17|
 |分布式关系型数据库|drds|2015-04-13|drds.aliyuncs.com|443|https|2019-04-17|
 |负载均衡|slb|2014-05-15|slb.aliyuncs.com|443|https|2019-04-17|
+|应用负载均衡|alb|2020-06-16|alb.[RegionId].aliyuncs.com|443|https|2020-06-16|
 |弹性伸缩|ess|2014-08-28|ess.aliyuncs.com|443|https|2019-04-17|
 |媒体处理|mts|2014-06-18|mts.aliyuncs.com|443|https|2019-04-17|
 |阿里云云盾|yundun|2014-09-24|yundun.aliyuncs.com|443|https|2019-04-17|
